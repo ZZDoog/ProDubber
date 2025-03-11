@@ -1,0 +1,7 @@
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing
+description: The official examples of article "Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing"
+github:
+  is_project_page: false
+

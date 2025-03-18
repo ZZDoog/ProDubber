@@ -1,6 +1,8 @@
 # Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing
 
-[CVPR2025] Official implementation of paper "Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled \\ Prosody Adapting for Movie Dubbing"
+[CVPR2025] Official implementation of paper "Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing"
+
+![alt text](Figure/method.jpg)
 
 ## 🌼 Environment
 

@@ -1,0 +1,5 @@
+output/
+*.pyc
+__pycache__/
+*.wav
+*.pth

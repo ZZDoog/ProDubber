@@ -80,12 +80,12 @@ We would like to thank the authors of previous related projects for generously s
 ## 🤝 Ciation
 If you find our work useful, please consider citing:
 ```
-@misc{zhang2025produbber,
-      title={Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing}, 
-      author={Zhedong Zhang and Liang Li and Chenggang Yan and Chunshan Liu and Anton van den Hengel and Yuankai Qi},
-      year={2025},
-      eprint={2503.12042},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2503.12042}, 
+@InProceedings{zhang_2025_produbber,
+    author    = {Zhang, Zhedong and Li, Liang and Yan, Chenggang and Liu, Chunshan and van den Hengel, Anton and Qi, Yuankai},
+    title     = {Prosody-Enhanced Acoustic Pre-training and Acoustic-Disentangled Prosody Adapting for Movie Dubbing},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {172-182}
 }
 ```

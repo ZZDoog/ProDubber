@@ -77,7 +77,7 @@ python inference_grid.py -n 'YOUR_EXP_NAME' --epoch 'YOUR_EPOCH' --setting 2
 We would like to thank the authors of previous related projects for generously sharing their code and insights: [StyleTTS](https://github.com/yl4579/StyleTTS), [StyleTTS2](https://github.com/yl4579/StyleTTS2), [StyleDubber](https://github.com/GalaxyCong/StyleDubber), [PL-BERT](https://github.com/yl4579/PL-BERT), and [HiFi-GAN](https://github.com/jik876/hifi-gan).
 
 
-## 🤝 Ciation
+## 🤝 Citation
 If you find our work useful, please consider citing:
 ```
 @InProceedings{zhang_2025_produbber,
